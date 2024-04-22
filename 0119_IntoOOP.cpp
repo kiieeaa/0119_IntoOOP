@@ -24,6 +24,7 @@ private:
 public :
 	void input() {
 		cout << "kode mk :" << kodemk << endl;
+		cout << "nama mk :" << namamk << endl;
 
 	}
 };
