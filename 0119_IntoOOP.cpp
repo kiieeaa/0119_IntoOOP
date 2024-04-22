@@ -23,6 +23,7 @@ private:
 	int sks;
 public :
 	void input() {
+		cout << "kode mk :" << kodemk << endl;
 
 	}
 };
