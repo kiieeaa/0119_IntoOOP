@@ -10,7 +10,7 @@ public : // akses modifier
 	void output() {
 		cout << "nama : " << nama << endl;
 		cout << "umur : " << umur << endl;
-
+		cout << "jurusan : " << endl;
 	}
 };
 
