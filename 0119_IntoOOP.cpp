@@ -12,5 +12,11 @@ public : // akses modifier
 		cout << "umur : " << umur << endl;
 		cout << "jurusan : " << endl;
 	}
+
 };
 
+
+class Matakuliah {
+private:
+
+};
