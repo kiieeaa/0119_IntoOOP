@@ -21,5 +21,6 @@ private:
 	string kodemk;
 	string namamk;
 	int sks;
+public :
 
 };
