@@ -39,5 +39,6 @@ public :
 };
 
 int main() {
+	mahasiswa mhs;
 
 }
